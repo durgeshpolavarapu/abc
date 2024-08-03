@@ -5,7 +5,7 @@ MarkupSafe==2.1.5
 numpy==1.26.0
 packaging==23.1
 pandas==2.2.1
-scikit-learn==1.5.1
+scikit-learn==0.23.2
 Werkzeug==3.0.3
 gunicorn==22.0.0
 
